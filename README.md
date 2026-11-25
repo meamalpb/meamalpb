@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**meamalpb/meamalpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Amal 👋
 
-Here are some ideas to get you started:
+### Backend Developer | Java | Ruby on Rails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a backend developer passionate about building scalable applications, designing APIs, and solving engineering problems.
+
+- 💻 Working with Java, Spring Boot, Ruby on Rails
+- 🗄️ Interested in PostgreSQL, Redis, and distributed systems
+- ☁️ Exploring AWS, Docker, Kubernetes, and cloud infrastructure
+- 🚀 Building projects and continuously learning
+
+### Tech Stack
+
+**Languages:** Java, Ruby, JavaScript
+
+**Backend:** Spring Boot, Ruby on Rails, REST APIs
+
+**Databases:** PostgreSQL, Redis
+
+**DevOps:** Docker, AWS, Kubernetes, GitHub Actions
+
+### Connect with me
+
+- Linkedin: [@amalpb](https://linkedin.com/in/amalpb)
